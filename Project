@@ -1,0 +1,16 @@
+<main id="main">
+<h1 id="title">Metallica</h1>
+<figure id="img-div">
+  <img id="image" src="https://i.scdn.co/image/ab67706c0000bebbeb6bb372a485d26fd32d1922" alt="Metal" />
+  <figcaption id="img-caption">Metallica New Album</figcaption>
+  </figure>
+  <section id="tribute info">
+    <ul>
+      <li>Self-Destruct</li>
+      <li>Moth into Flame"</li>
+      <li>Atlas, Rise!"</li>
+      <li>Now That We're Dead"</li>
+      <li>Spit Out the Bone"</li>
+</ul>
+    </section>
+  </main>
