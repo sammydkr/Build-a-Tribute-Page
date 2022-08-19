@@ -1,13 +1,16 @@
 <main id="main">
-<h1 id="title">Metallica</h1>
-<div class="container">
-<figure id="img-div">
-  <img id="image" src="https://i.scdn.co/image/ab67706c0000bebbeb6bb372a485d26fd32d1922" alt="Metal" />
+  <header>
+<section id="title">
+  <h1>Metallica</h1>
+ <h2 id="tribute-info">All about Metallica</h2>
+ <div id="img-div">
+  <img id="image" 
+  src="https://i.scdn.co/image/ab67706c0000bebbeb6bb372a485d26fd32d1922"   alt="Metal" />
   <figcaption id="img-caption">Metallica is an American heavy metal band. The band was formed in 1981 in Los Angeles by vocalist/guitarist James Hetfield and drummer Lars Ulrich and has been based in San Francisco for most of its career.The band's fast tempos, instrumentals and aggressive musicianship made them one of the founding "big four" bands of thrash metal, alongside Megadeth, Anthrax, and Slayer. Metallica's current lineup comprises founding members and primary songwriters Hetfield and Ulrich, longtime lead guitarist Kirk Hammett, and bassist Robert Trujillo. Guitarist Dave Mustaine (who formed Megadeth after being fired from the band) and bassists Ron McGovney, Cliff Burton, and Jason Newsted are former members of the band.</figcaption>
   </figure>
   <section id="tribute info"><p>Metallica first found commercial success with the release of its third album, Master of Puppets (1986), cited as one of the heaviest metal albums and the band's best work. The band's next album, ...And Justice for All (1988), gave Metallica its first Grammy Award nomination. Their self titled fifth album, Metallica (1991), was the band's first not to root predominantly in thrash metal. It appealed to a more mainstream audience, achieving substantial commercial success and selling over 16 million copies in the United States to date; making it the best-selling album of the SoundScan era. After experimenting with different genres and directions in subsequent releases, Metallica returned to its thrash metal roots with the release of its ninth album, Death Magnetic (2008), which drew similar praise to that of the band's earlier albums. The band's most recent album is Hardwired... to Self-Destruct (2016).</p>
-</section>
 <a href="https://en.wikipedia.org/wiki/Hardwired..._to_Self-Destruct" id="tribute-link" target="_blank">Metallica Last Album</a>
-
+<link rel="stylesheet" href="styles.css">
+</section>
   </div>
   </main>
